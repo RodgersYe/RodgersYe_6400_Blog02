@@ -1,14 +1,10 @@
 # ============================================================
 # Blog Post 2
 # Web Scraping Drexel University Events Calendar
-#
 # Research Question:
 # Which day or days of the week offer the most opportunities
 # for attending events listed on the Drexel University
 # Events Calendar?
-#
-# Research Period:
-# October 1, 2026 - September 30, 2027
 # ============================================================
 
 
